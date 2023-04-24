@@ -1,3 +1,1 @@
-# school-
-frt final project
-AZURE LINK: https://happy-ocean-069bc8210.2.azurestaticapps.net
+# FMML-m1LAB1-session
